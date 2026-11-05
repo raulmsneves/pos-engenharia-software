@@ -1,0 +1,19 @@
+# Ambiente Virtual do Python (Essencial ignorar para não quebrar entre casa/trabalho)
+venv/
+ENV/
+env/
+.venv/
+
+# Arquivos de configuração automática do PyCharm
+.idea/
+
+# Arquivos temporários do Python (Compilados)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do sistema operacional Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
